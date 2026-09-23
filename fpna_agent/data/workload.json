@@ -1,0 +1,52 @@
+[
+  {
+    "issue_id": "FIN-101",
+    "epic": "Payment Platform Rollout",
+    "work_type": "Internal Development",
+    "status": "In Progress",
+    "planned_person_days": 120,
+    "completed_person_days": 75,
+    "remaining_person_days": 45,
+    "target_month": "2026-10"
+  },
+  {
+    "issue_id": "FIN-102",
+    "epic": "Payment Platform Rollout",
+    "work_type": "External Development",
+    "status": "In Progress",
+    "planned_person_days": 80,
+    "completed_person_days": 30,
+    "remaining_person_days": 50,
+    "target_month": "2026-10"
+  },
+  {
+    "issue_id": "FIN-103",
+    "epic": "ERP Integration",
+    "work_type": "External Development",
+    "status": "To Do",
+    "planned_person_days": 60,
+    "completed_person_days": 0,
+    "remaining_person_days": 60,
+    "target_month": "2026-11"
+  },
+  {
+    "issue_id": "FIN-104",
+    "epic": "Payment Platform Rollout",
+    "work_type": "Testing",
+    "status": "To Do",
+    "planned_person_days": 40,
+    "completed_person_days": 0,
+    "remaining_person_days": 40,
+    "target_month": "2026-11"
+  },
+  {
+    "issue_id": "FIN-105",
+    "epic": "Legacy System Decommission",
+    "work_type": "External Development",
+    "status": "Backlog",
+    "planned_person_days": 70,
+    "completed_person_days": 0,
+    "remaining_person_days": 70,
+    "target_month": "2026-12"
+  }
+]

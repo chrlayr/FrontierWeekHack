@@ -1,0 +1,58 @@
+[
+  {
+    "transaction_id": "TX-1001",
+    "posting_date": "2026-07-05",
+    "description": "Cloud platform subscription July",
+    "amount": 18500,
+    "cost_center": "DIGITAL",
+    "vendor": "CloudSphere"
+  },
+  {
+    "transaction_id": "TX-1002",
+    "posting_date": "2026-07-18",
+    "description": "External development Payment Platform",
+    "amount": 22400,
+    "cost_center": "DIGITAL",
+    "vendor": "DevWorks"
+  },
+  {
+    "transaction_id": "TX-1003",
+    "posting_date": "2026-08-05",
+    "description": "Cloud platform subscription August",
+    "amount": 18500,
+    "cost_center": "DIGITAL",
+    "vendor": "CloudSphere"
+  },
+  {
+    "transaction_id": "TX-1004",
+    "posting_date": "2026-08-21",
+    "description": "Consulting support ERP integration",
+    "amount": 14800,
+    "cost_center": "DIGITAL",
+    "vendor": "TechAdvisory"
+  },
+  {
+    "transaction_id": "TX-1005",
+    "posting_date": "2026-09-05",
+    "description": "Cloud platform subscription September",
+    "amount": 18500,
+    "cost_center": "DIGITAL",
+    "vendor": "CloudSphere"
+  },
+  {
+    "transaction_id": "TX-1006",
+    "posting_date": "2026-09-12",
+    "description": "External development Payment Platform",
+    "amount": 24600,
+    "cost_center": "DIGITAL",
+    "vendor": "DevWorks"
+  },
+  {
+    "transaction_id": "TX-1007",
+    "posting_date": "2026-09-16",
+    "description": "Professional services",
+    "amount": 9700,
+    "cost_center": "DIGITAL",
+    "vendor": "PartnerOne"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "planning_period": "2026",
+  "currency": "CHF",
+  "as_of_date": "2026-09-30",
+
+  "annual_budget": {
+    "Cloud Services": 75000,
+    "External Development": 110000,
+    "External Consulting": 45000,
+    "Other Services": 30000
+  },
+
+  "external_day_rate": 900,
+
+  "historical_monthly_spend": {
+    "2026-01": 18000,
+    "2026-02": 19500,
+    "2026-03": 21000,
+    "2026-04": 20500,
+    "2026-05": 22500,
+    "2026-06": 23500
+  }
+}
